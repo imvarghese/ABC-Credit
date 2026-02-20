@@ -1,0 +1,2 @@
+timestamp,Age,Emp_Level,Education_Level,Net_Sal,Loan_Amt,Asset_Value,LTV_Perc,Housing_Category,Existing_Liabilities,Model_Probability,Decision
+2026-02-21 02:32:33,26,SA,5,50000.0,900000.0,100000.0,100.0,Owner,Y,0.6375,APPROVED
